@@ -4,6 +4,10 @@ author baiji
 在写该爬虫之前没有python以及多线程开发经验，由于多次修改与优化，代码比较绕，还请见谅
 data 2016/9/17 7:37
 '''
+'''
+date : 2016/10/11
+add github git@github.com:boji123/crawer_for_zhihu.git
+'''
 import threading,urllib2,re
 import time
 import socket
